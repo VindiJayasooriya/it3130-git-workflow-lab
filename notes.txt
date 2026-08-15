@@ -1,0 +1,16 @@
+Lab Sheet 4 - Git Feature Branch Notes
+=======================================
+
+Purpose:
+This file was added on a feature branch to demonstrate the GitHub Flow
+workflow: branch -> commit -> push -> pull request -> review -> merge.
+
+Steps completed:
+- Created feature branch following the naming convention
+- Added this file and profile.html
+- Committed the changes with a clear, descriptive message
+- Pushed the branch to GitHub and opened a pull request
+
+Notes:
+- Replace this text with your own content before committing.
+- Keep the commit message focused on what this specific change does.
